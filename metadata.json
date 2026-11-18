@@ -1,0 +1,8 @@
+{
+  "name": "Muslim",
+  "description": "High-speed 3D highway racing and traffic dodge game built with Three.js WebGL, procedural vehicles, dynamic environments, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
